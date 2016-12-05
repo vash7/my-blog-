@@ -1,0 +1,31 @@
+.navbar-brand-logo{
+  padding: 0 auto;
+}
+
+navbar-brand-logo .logo{
+  border: 1px solid #333333;
+  border-radius: 50%;
+  float: left;
+  overflow: hidden;
+  width: 60px;
+}
+
+.navbar.navbar-brand-logo .brand{
+  color: #FFFFFF;
+  float: left;
+  font-size: 18px;
+  font-family: 'grand-hotel' cursive;
+  font-weight: bold;
+  line-height: normal;
+  margin-left: auto;
+  margin-top: auto;
+  width: auto;
+}
+.navbar-default .navbar-brand-logo .brand{
+  color: #2C93FF;
+}
+
+.navbar{
+  border: 0 none;
+  
+}

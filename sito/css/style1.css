@@ -1,0 +1,80 @@
+img{
+  border-radius: 70%;
+  border: 3px solid;
+  position: relative;
+  top: 8px;
+  left: 16px;
+
+}
+nav{
+  display: flex;
+  background-color: #FC5F20;
+  padding-bottom: 15px;
+}
+.logo{
+  font-size: 40px;
+  font-family: 'Grand Hotel', cursive;
+  position: relative;
+  top: 18px;
+  left: 30px;
+  color: white;
+}
+body{
+  background: black;
+}
+.menu{
+  font-size: 30px;
+  position: relative;
+  top: 30px;
+  right: -650px;
+}
+a:link{
+  color: white;
+}
+a:visited{
+  color: white;
+}
+p{
+  color: white;
+}
+.index{
+  position: absolute;
+  left: 560px;
+  top: 100px;
+  font-family: 'Grand Hotel', cursive;
+  font-size: 35px;
+}
+.buton{
+  color: white;
+  position: absolute;
+  left: 550px;
+  top: 400px;
+  font-size: 25px;
+}
+.buton a:link{
+  color: white
+}
+.buton a:visited{
+  color: #FC5F20;
+}
+.ita{
+  position: relative;
+  left: -190px;
+}
+.deu{
+  position: relative;
+  left: 40px;
+}
+.eng{
+  position: relative;
+  left: -75px;
+}
+blockquote{
+  color: #FC5F20;
+  position: absolute;
+  left: 260px;
+  top: 150px;
+}
+h4{
+  color: white;
+}
